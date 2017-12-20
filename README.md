@@ -1,5 +1,5 @@
 # Gender Imbalance on Game of Thrones
-## <i>A Sociolinguistic Analysis of GOT’s Script Data</i>
+### A Sociolinguistic Analysis of GOT’s Script Data
 
 There has been much debate about sexism on Game of Thrones, a medieval fantasy epic based on the book series “A Song of Ice and Fire.” Headlines over the years include:
 - Games of Thrones: Where sexual violence and misogyny are good news for women
